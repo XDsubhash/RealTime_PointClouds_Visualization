@@ -8,7 +8,7 @@ CMPE255 Research Topic - Massive 3D Point Cloud data sets visualization with ppt
 3. pip install pptk/open3d/laspy/numpy >pptk module at the moment built only for 3.7 ( use respective python env) https://pypi.org/project/pptk/#files 
 
 ## Members
-Team8 
+Team8 </br></br>
 Subhash Polisetti 015286063</br>
 Kanak Kshirsagar 015264106</br>
 Shreshta Balmuri 015442960</br>
